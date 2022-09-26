@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/meinczinger-learning/Space%20game%20-%20web/_apis/build/status/meinczinger.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/meinczinger-learning/Space%20game%20-%20web/_build/latest?definitionId=1&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
